@@ -1,4 +1,4 @@
 x86-OS
 ======
 
-x86 operating system written in NASM and C
+Homebrew operating system for x86 architecture. Bootloader and kernel stub, which run in Real Mode, are written in NASM. Protected mode kernel/drivers are coded in C.
