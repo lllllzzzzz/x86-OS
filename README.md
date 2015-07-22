@@ -1,8 +1,8 @@
 x86-OS
 ======
 
-x86 operating system written in NASM.
-At the moment, this OS is basically a bootloader that sets up the machine to run a C kernel.<br/>
+x86 operating system written in NASM. At the moment, this OS is basically a bootloader that sets up<br/>
+the machine to run a C kernel.<br/>
 Eventually I'll actually write the kernel.
 <br/><br/>
 <h4>Currently implemented features:</h4>
@@ -14,6 +14,6 @@ Eventually I'll actually write the kernel.
 * Global Descriptor Table
 * Kernel stub
 * Protected mode for VGA text output
-<br/><br/>
-* <h4>Todo:</h4>
+<br/>
+<h4>Todo:</h4>
 * Write the kernel
