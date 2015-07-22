@@ -12,5 +12,5 @@ the machine to run a C kernel. Eventually I'll actually write the kernel.
 * Protected mode
 * Global Descriptor Table
 * Kernel stub
-* Protected mode for VGA text output
+* Functions for PM VGA text output
 <br/>
