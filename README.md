@@ -2,9 +2,9 @@ x86-OS
 ======
 
 x86 operating system written in NASM. At the moment, this OS is basically a bootloader that sets up<br/>
-the machine to run a C kernel. Eventually I'll actually write the kernel.
+the machine to run a C kernel.
 <br/><br/>
-<h4>Currently implemented features:</h4>
+##Currently implemented features:
 * 2-stage bootloader
 * FAT12 driver
 * 1.44MB floppy disk I/O
@@ -14,3 +14,6 @@ the machine to run a C kernel. Eventually I'll actually write the kernel.
 * Kernel stub
 * Functions for PM VGA text output
 <br/>
+
+##TODO:
+* Write kernel
