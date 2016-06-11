@@ -11,8 +11,8 @@ the machine to run a C kernel.
 * Enable A20 gate
 * Protected mode
 * Global Descriptor Table
+* Functions for Protected Mode VGA text output
 * Kernel stub
-* Functions for PM VGA text output
 <br/>
 
 ##TODO:
